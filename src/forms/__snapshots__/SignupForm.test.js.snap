@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignupForm it matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      Sign Up
+    </div>
+    <form>
+      <div>
+        <label>
+          Username
+        </label>
+        <input
+          autocomplete="username"
+          name="username"
+          required=""
+          value=""
+        />
+      </div>
+      <div>
+        <label>
+          Password
+        </label>
+        <input
+          autocomplete="current-password"
+          name="password"
+          required=""
+          type="password"
+          value=""
+        />
+      </div>
+      <div>
+        <label>
+          First Name
+        </label>
+        <input
+          name="firstName"
+          required=""
+          value=""
+        />
+      </div>
+      <div>
+        <label>
+          Last Name
+        </label>
+        <input
+          name="lastName"
+          required=""
+          value=""
+        />
+      </div>
+      <div>
+        <label>
+          Email
+        </label>
+        <input
+          name="email"
+          required=""
+          value=""
+        />
+      </div>
+      <button
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditProfileForm it matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      Profile
+    </div>
+    <form>
+      <div>
+        <label>
+          First Name
+        </label>
+        <input
+          name="firstName"
+          value=""
+        />
+      </div>
+      <div>
+        <label>
+          Last Name
+        </label>
+        <input
+          name="lastName"
+          value=""
+        />
+      </div>
+      <div>
+        <label>
+          Email
+        </label>
+        <input
+          name="email"
+          value="test@test.net"
+        />
+      </div>
+      <div>
+        <label>
+          Confirm password to make changes: 
+        </label>
+        <input
+          name="password"
+          type="password"
+          value=""
+        />
+      </div>
+      <button>
+        Save Changes
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;

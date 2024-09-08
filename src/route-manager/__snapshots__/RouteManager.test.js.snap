@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RouteManager it matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      Jobly
+    </div>
+    <div>
+      All the jobs in one, convenient place.
+    </div>
+    <h2>
+      Welcome Back, testuser!
+    </h2>
+  </div>
+</DocumentFragment>
+`;

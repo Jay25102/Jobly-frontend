@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditProfileForm it matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <input
+        name="searchTerm"
+        placeholder="Enter term..."
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`SearchForm it matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <input
+        name="searchTerm"
+        placeholder="Enter term..."
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
